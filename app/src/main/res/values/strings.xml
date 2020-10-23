@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prove06_Weather</string>
+    <string name="forecast">Forecast</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="temperature">Temperature</string>
+</resources>
